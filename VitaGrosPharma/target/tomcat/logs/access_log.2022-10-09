@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:28:36 +0000] "GET / HTTP/1.1" 200 344 http-bio-8080-exec-1 1139
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:28:41 +0000] "GET / HTTP/1.1" 200 344 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:28:44 +0000] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:28:49 +0000] "GET /list-Owner HTTP/1.1" 200 3152 http-bio-8080-exec-8 164
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:29:09 +0000] "GET /update-owner?id=1 HTTP/1.1" 200 865 http-bio-8080-exec-1 1862
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:29:23 +0000] "GET /owner-details?id=1 HTTP/1.1" 200 293 http-bio-8080-exec-7 47
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:33:29 +0000] "GET /owner-details?id=1 HTTP/1.1" 200 388 http-bio-8080-exec-1 1293
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:33:33 +0000] "GET /update-owner?id=1 HTTP/1.1" 200 865 http-bio-8080-exec-4 293
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:33:40 +0000] "GET /add-owner HTTP/1.1" 200 810 http-bio-8080-exec-6 8
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:34:01 +0000] "GET /list-Owner HTTP/1.1" 200 3159 http-bio-8080-exec-10 390
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:42:22 +0000] "GET /list-Owner HTTP/1.1" 200 3164 http-bio-8080-exec-1 1193
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:42:32 +0000] "GET /owner-details?id=1 HTTP/1.1" 200 461 http-bio-8080-exec-5 227
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:42:44 +0000] "GET /owner-details?id=2 HTTP/1.1" 200 464 http-bio-8080-exec-7 6
+0:0:0:0:0:0:0:1 - - [09/Oct/2022:20:48:32 +0000] "GET /owner-details?id=2 HTTP/1.1" 500 5441 http-bio-8080-exec-1 1185
